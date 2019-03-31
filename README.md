@@ -3,6 +3,6 @@ This eshop was developed for web applications development subject as the final p
 
 It's allocated in the University of Algarve server, this is the address:
 
-      [MyPs4eShop](all.deei.fct.ualg.pt/~a41674/LAB12/index.php/eshop)
+[MyPs4eShop](all.deei.fct.ualg.pt/~a41674/LAB12/index.php/eshop)
 
       
