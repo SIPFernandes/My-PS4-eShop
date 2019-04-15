@@ -5,4 +5,6 @@ It's allocated in the University of Algarve server, just copy and paste in your 
 
 all.deei.fct.ualg.pt/~a41674/LAB12/index.php/eshop
 
+Codeigniter Framework can be downloaded here: https://codeigniter.com/
+Smarty Template can be downloaded here: https://www.smarty.net/download
       
